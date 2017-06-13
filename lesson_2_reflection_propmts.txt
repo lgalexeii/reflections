@@ -2,3 +2,10 @@ What happens when you initialize a repository?
 Git is anabled to make commits on this directory
 Why do you need to do it?
 Run command git init
+
+How is the staging area different from the working directory and the 
+repository? 
+Its like an intermadiate area
+What value do you think it offers?
+I think it provides a set of changes you have pending to commit, 
+only files that you decided to track
