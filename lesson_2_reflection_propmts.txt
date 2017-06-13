@@ -1,0 +1,4 @@
+What happens when you initialize a repository? 
+Git is anabled to make commits on this directory
+Why do you need to do it?
+Run command git init
