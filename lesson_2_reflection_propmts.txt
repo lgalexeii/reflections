@@ -9,3 +9,6 @@ Its like an intermadiate area
 What value do you think it offers?
 I think it provides a set of changes you have pending to commit, 
 only files that you decided to track
+
+How can you use the staging area to make sure you have one commit per logical change?
+Using git diff only
