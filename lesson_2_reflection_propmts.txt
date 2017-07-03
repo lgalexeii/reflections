@@ -12,3 +12,7 @@ only files that you decided to track
 
 How can you use the staging area to make sure you have one commit per logical change?
 Using git diff only
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you need to probe some features or doing changes distinct than normal
+branches help to organize distinct versions of these changes
