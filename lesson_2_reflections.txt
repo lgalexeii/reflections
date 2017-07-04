@@ -1,0 +1,21 @@
+What happens when you initialize a repository? 
+Git is anabled to make commits on this directory
+Why do you need to do it?
+Run command git init
+
+How is the staging area different from the working directory and the 
+repository? 
+Its like an intermadiate area
+What value do you think it offers?
+I think it provides a set of changes you have pending to commit, 
+only files that you decided to track
+
+How can you use the staging area to make sure you have one commit per logical change?
+Using git diff only
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you need to probe some features or doing changes distinct than normal
+branches help to organize distinct versions of these changes
+
+How do the diagrams help you visualize the branch structure?
+Puting in line changes of the same branch.
