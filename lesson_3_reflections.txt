@@ -14,3 +14,8 @@ Describe the differences between forks, clones, and branches. When would
  How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
  Of course there are somne other alternatives, but in case of not usin anything, could be throught 
  sharing files and comparing manually, definetively, git and github are a very good options.
+ 
+ When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ If you needs to add some experimental functionallity without affect the principal work.
+ Benefits are not interfer in main branch and the posibility of request a validation of your code
+ throught a pull request
